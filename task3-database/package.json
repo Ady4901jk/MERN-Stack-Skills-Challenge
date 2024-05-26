@@ -1,0 +1,15 @@
+{
+  "name": "task3-database",
+  "version": "1.0.0",
+  "description": "**Objective**: Design a MongoDB schema and perform basic database operations for a movie collection.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^6.6.2"
+  }
+}
